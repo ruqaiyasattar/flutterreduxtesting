@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter redux application.
 
-A few resources to get you started if this is your first Flutter project:
+Redux is a unidirectional data flow architecture that makes it easy to develop, maintain and test applications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Redux demo](https://user-images.githubusercontent.com/12498051/185744218-a5534cf5-730d-437e-abd6-70f1d3807dba.gif)
